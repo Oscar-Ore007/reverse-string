@@ -1,6 +1,8 @@
 function reverseString(str) {
-  // type your code here
+  return str;
 }
+
+reverseString("hello");
 
 if (require.main === module) {
   // add your own tests in here
